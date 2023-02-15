@@ -11,3 +11,5 @@ for(let i=1; i<a.length; i++){
     }
 }
 console.log(max)
+
+
